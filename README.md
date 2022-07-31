@@ -18,7 +18,7 @@
 - 跨岛\
   <https://chat.transland.lgbt>
 
-- Limelight\
+- Limelight (目前已关闭注册)\
   <https://limelight.moe>
 
 - 那些秋叶（拒绝对跨性别的暴力）\
@@ -64,7 +64,7 @@
 - awesome trans\
   Telegram: <https://t.me/awesometrans_zh>\
   Twitter: <https://twitter.com/awesometrans_zh>\
-  GitHub: <https://github.com/awesome-trans/awesome-trans>\
+  GitHub: <https://github.com/awesome-trans/awesome-trans>
 
 - Transgender lost years\
   <https://github.com/KristallWang/Transgender-lost-years>
