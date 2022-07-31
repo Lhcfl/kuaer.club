@@ -75,6 +75,9 @@
 - 跨性别在线·文档库\
   <https://docs.transonline.org.cn>
 
+- Transgender Resources Center\
+  <https://tgr.org.hk>
+
 - UCSF Transgender Care\
   <https://transcare.ucsf.edu>
 
@@ -89,14 +92,11 @@
 - 跨性别男性的评估与管理\
   <https://www.uptodate.com/contents/zh-Hans/transgender-men-evaluation-and-management>
 
-- 跨性别者性别认同的法律承认 — 中国相关法律和政策评估报告\
-  <https://www.cn.undp.org/content/china/zh/home/library/democratic_governance/legal-gender-recognition-in-china--a-legal-and-policy-review-.html>
-
-- 中国性少数群体生存状况 - 基于性倾向，性别认同和性别表达的社会态度调查报告\
-  <https://www.cn.undp.org/content/china/zh/home/library/democratic_governance/being-lgbt-in-china/>
-
-- 为亚洲及太平洋地区跨性别者及其社群提供完善照护之构想\
-  <https://www.cn.undp.org/content/china/zh/home/library/democratic_governance/blueprint-for-the-provision-of-comprehensive-care-for-trans-peop.html>
-
 - 医保开 HRT（激素代替治疗）药物流程\
   <https://zhuanlan.zhihu.com/p/387187000>
+
+## 报告
+
+- [跨性别者性别认同的法律承认 — 中国相关法律和政策评估报告](https://www.cn.undp.org/content/china/zh/home/library/democratic_governance/legal-gender-recognition-in-china--a-legal-and-policy-review-.html)
+- [中国性少数群体生存状况 - 基于性倾向，性别认同和性别表达的社会态度调查报告](https://www.cn.undp.org/content/china/zh/home/library/democratic_governance/being-lgbt-in-china/)
+- [为亚洲及太平洋地区跨性别者及其社群提供完善照护之构想](https://www.cn.undp.org/content/china/zh/home/library/democratic_governance/blueprint-for-the-provision-of-comprehensive-care-for-trans-peop.html)
