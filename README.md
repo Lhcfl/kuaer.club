@@ -62,9 +62,9 @@
 ## 资料
 
 - awesome trans\
-  <https://t.me/awesometrans_zh>
-  <https://twitter.com/awesometrans_zh>
-  <https://github.com/awesome-trans/awesome-trans>
+  Telegram: <https://t.me/awesometrans_zh>\
+  Twitter: <https://twitter.com/awesometrans_zh>\
+  GitHub: <https://github.com/awesome-trans/awesome-trans>\
 
 - Transgender lost years\
   <https://github.com/KristallWang/Transgender-lost-years>
