@@ -15,6 +15,8 @@
   <https://www.reddit.com/r/mtf_zh>
 - MtF SRS\
   <https://en.wikipedia.org/wiki/Sex_reassignment_surgery_(male-to-female)>
+- MtF 情報発信サイト\
+  <https://joseika.com>（日文）
 
 ## FtM (Female to Male)
 
