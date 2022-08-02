@@ -111,4 +111,4 @@
 - [为亚洲及太平洋地区跨性别者及其社群提供完善照护之构想](https://www.cn.undp.org/content/china/zh/home/library/democratic_governance/blueprint-for-the-provision-of-comprehensive-care-for-trans-peop.html)
 - [跨性别女性的评估和管理](https://www.uptodate.com/contents/zh-Hans/transgender-women-evaluation-and-management)
 - [跨性别男性的评估与管理](https://www.uptodate.com/contents/zh-Hans/transgender-men-evaluation-and-management)
-- [跨性别男性的治疗与护理](https://www.nickgorton.org/2021/01/17/medical-therapy-and-health-maintenance-for-transgender-men/)（英文）
+- [跨性别男性的医疗保健医护人员指南](https://www.nickgorton.org/2021/01/17/medical-therapy-and-health-maintenance-for-transgender-men/)（英文）
