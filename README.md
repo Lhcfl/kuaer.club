@@ -30,23 +30,14 @@
 - FtM SRS\
   <https://en.wikipedia.org/wiki/Sex_reassignment_surgery_(female-to-male)>
 
-## 社区
-
-- 跨岛\
-  <https://chat.transland.lgbt>
-- Limelight（目前已关闭注册）\
-  <https://limelight.moe>
-- 那些秋叶（拒绝对跨性别的暴力）\
-  <https://one-among.us>
-
-## RLE
+## RLE (Real Life Experience)
 
 - RLE.wiki\
   <https://rle.wiki>
 - 无性别卫生间分享计划\
   <https://github.com/xfoxfu/KagurazakaToilet>
 
-## HRT
+## HRT (Hormone replacement therapy)
 
 - HRT.Cafe\
   <https://hrt.cafe>
@@ -69,6 +60,15 @@
 
 - transHelper (Android)\
   <https://github.com/MsZhu-trans/transHelper-release>
+
+## 社区
+
+- 跨岛\
+  <https://chat.transland.lgbt>
+- 那些秋叶（拒绝对跨性别的暴力）\
+  <https://one-among.us>
+- Limelight（目前已关闭注册）\
+  <https://limelight.moe>
 
 ## 联名
 
