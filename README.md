@@ -48,6 +48,9 @@
   <https://diyhrt.frama.io>
 - Shizu's HRT Guide\
   <https://docs.hrt.guide>
+- Transfeminine Science (MtF HRT)\
+  <https://transfemscience.org>\
+  <https://github.com/tfsci-sc/articles>（简体中文译制）
 - MtF HRT (Feminizing hormone therapy)\
   <https://en.wikipedia.org/wiki/Feminizing_hormone_therapy>
 - FtM HRT (Masculinizing hormone therapy)\
@@ -85,8 +88,6 @@
   GitHub: <https://github.com/awesometrans/awesometrans_zh>
 - Transgender lost years\
   <https://github.com/KristallWang/Transgender-lost-years>
-- Transfeminine Science（跨性别女性科学？）\
-  <https://github.com/tfsci-sc/articles>
 - Transgender Resources Center\
   <https://tgr.org.hk>
 - UCSF Transgender Care\
