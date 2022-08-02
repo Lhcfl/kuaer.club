@@ -30,7 +30,7 @@
 - FtM SRS\
   <https://en.wikipedia.org/wiki/Sex_reassignment_surgery_(female-to-male)>
 
-## RLE (Real Life Experience)
+## RLE (Real life experience)
 
 - RLE.wiki\
   <https://rle.wiki>
