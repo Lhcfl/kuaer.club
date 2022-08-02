@@ -3,7 +3,7 @@
 ## MtF (Male to Female)
 
 - MtF.wiki\
-  <https://mtf.wiki>
+  <https://mtf.wiki>\
   Twitter: <https://twitter.com/MtFwiki>
 - MtF 指南针\
   <https://mtf.party>
@@ -19,7 +19,7 @@
 ## FtM (Female to Male)
 
 - FtM.wiki\
-  <https://ftm.wiki>
+  <https://ftm.wiki>\
   Twitter: <https://twitter.com/FtMwiki>
 - Top Surgery Guide\
   <https://www.topsurgery.net>
@@ -106,7 +106,6 @@
 - [跨性别者性别认同的法律承认 — 中国相关法律和政策评估报告](https://www.cn.undp.org/content/china/zh/home/library/democratic_governance/legal-gender-recognition-in-china--a-legal-and-policy-review-.html)
 - [中国性少数群体生存状况 - 基于性倾向，性别认同和性别表达的社会态度调查报告](https://www.cn.undp.org/content/china/zh/home/library/democratic_governance/being-lgbt-in-china/)
 - [为亚洲及太平洋地区跨性别者及其社群提供完善照护之构想](https://www.cn.undp.org/content/china/zh/home/library/democratic_governance/blueprint-for-the-provision-of-comprehensive-care-for-trans-peop.html)
-
 - [跨性别女性的评估和管理](https://www.uptodate.com/contents/zh-Hans/transgender-women-evaluation-and-management)
 - [跨性别男性的评估与管理](https://www.uptodate.com/contents/zh-Hans/transgender-men-evaluation-and-management)
 - [跨性别男性的治疗与护理](https://www.nickgorton.org/2021/01/17/medical-therapy-and-health-maintenance-for-transgender-men/)（英文）
