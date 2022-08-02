@@ -17,6 +17,15 @@
   <https://en.wikipedia.org/wiki/Sex_reassignment_surgery_(male-to-female)>
 - MtF 情報発信サイト\
   <https://joseika.com>（日文）
+- Transfeminine Science\
+  <https://transfemscience.org>\
+  <https://github.com/tfsci-sc/articles>（中文）
+- Shizu's HRT Guide\
+  <https://docs.hrt.guide>
+- Sex Reassignment Surgery\
+  <https://en.wikipedia.org/wiki/Sex_reassignment_surgery_(male-to-female)>
+- Feminizing hormone therapy\
+  <https://en.wikipedia.org/wiki/Feminizing_hormone_therapy>
 
 ## FtM (Female to Male)
 
@@ -31,8 +40,10 @@
   <http://www.ftmguide.org>
 - Reddit FtM wiki\
   <https://www.reddit.com/r/ftm/wiki>
-- FtM SRS\
+- Sex Reassignment Surgery\
   <https://en.wikipedia.org/wiki/Sex_reassignment_surgery_(female-to-male)>
+- Masculinizing hormone therapy\
+  <https://en.wikipedia.org/wiki/Masculinizing_hormone_therapy>
 
 ## RLE (Real life experience)
 
@@ -48,15 +59,6 @@
 - DIY HRT\
   <https://diyhrt.wiki>\
   <https://diyhrt.frama.io>
-- Shizu's HRT Guide\
-  <https://docs.hrt.guide>
-- Transfeminine Science (MtF HRT)\
-  <https://transfemscience.org>\
-  <https://github.com/tfsci-sc/articles>（简体中文译制）
-- MtF HRT (Feminizing hormone therapy)\
-  <https://en.wikipedia.org/wiki/Feminizing_hormone_therapy>
-- FtM HRT (Masculinizing hormone therapy)\
-  <https://en.wikipedia.org/wiki/Masculinizing_hormone_therapy>
 
 ## ADHD/ASD
 
