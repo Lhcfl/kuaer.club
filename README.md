@@ -7,25 +7,27 @@
   Twitter: <https://twitter.com/MtFwiki>
 - MtF 指南针\
   <https://mtf.party>
+- MtF 小站\
+  <https://mtf.qwq.pink>
 - MtF Hub\
   <https://hub.mtf.party/explore>
 - Reddit MtF wiki\
   <https://www.reddit.com/r/mtf/wiki>
 - Reddit MtF 中文社区\
   <https://www.reddit.com/r/mtf_zh>
-- MtF SRS\
-  <https://en.wikipedia.org/wiki/Sex_reassignment_surgery_(male-to-female)>
-- MtF 情報発信サイト\
-  <https://joseika.com>（日文）
 - Transfeminine Science\
   <https://transfemscience.org>\
   <https://github.com/tfsci-sc/articles>（中文）
+- MtFHRT@groups.io\
+  <https://groups.io/g/MTFHRT>
 - Shizu's HRT Guide\
   <https://docs.hrt.guide>
 - Sex Reassignment Surgery\
   <https://en.wikipedia.org/wiki/Sex_reassignment_surgery_(male-to-female)>
 - Feminizing hormone therapy\
   <https://en.wikipedia.org/wiki/Feminizing_hormone_therapy>
+- MtF 情報発信サイト\
+  <https://joseika.com>（日文）
 
 ## FtM (Female to Male)
 
