@@ -91,15 +91,15 @@
   <https://tgr.org.hk>
 - UCSF Transgender Care\
   <https://transcare.ucsf.edu>
+- 跨性别在线·文档库\
+  <https://docs.transonline.org.cn>
+- LGBT 文件资料索引库\
+  <https://cnlgbtdata.com>
 
 ## 文章
 
 - 这就是性别烦躁，供参考\
   <https://genderdysphoria.fyi/zh/>
-- 跨性别在线·文档库\
-  <https://docs.transonline.org.cn>
-- LGBT 文件资料索引库\
-  <https://cnlgbtdata.com>
 - 医保开 HRT（激素代替治疗）药物流程\
   <https://zhuanlan.zhihu.com/p/387187000>
 
