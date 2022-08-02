@@ -94,10 +94,12 @@
   GitHub: <https://github.com/awesometrans/awesometrans_zh>
 - Transgender lost years\
   <https://github.com/KristallWang/Transgender-lost-years>
-- Transgender Resources Center\
-  <https://tgr.org.hk>
 - UCSF Transgender Care\
   <https://transcare.ucsf.edu>
+- HealthyPlace\
+  <https://www.healthyplace.com>
+- Transgender Resources Center\
+  <https://tgr.org.hk>
 - 跨性别在线·文档库\
   <https://docs.transonline.org.cn>
 - LGBT 文件资料索引库\
