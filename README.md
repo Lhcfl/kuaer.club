@@ -81,6 +81,16 @@
 - Limelight（目前已关闭注册）\
   <https://limelight.moe>
 
+## NGO (Non-governmental organization)
+
+- 跨儿心理小组\
+  <https://kuaerxinli.org>
+- 庄尼心理咨询中心\
+  <http://www.johnnycenter.com>
+- 跨樂園\
+  <https://www.transnation.asia>
+- [微信公众号](media-weixin.md)
+
 ## 联名
 
 - LGBTQIA in China\
