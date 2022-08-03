@@ -89,12 +89,9 @@
   <http://www.johnnycenter.com>
 - 跨樂園\
   <https://www.transnation.asia>
-- [微信公众号](media-weixin.md)
-
-## 联名
-
 - LGBTQIA in China\
   <https://github.com/LGBT-CN/LGBTQIA-In-China>
+- [微信公众号](media-weixin.md)
 
 ## 资料
 
