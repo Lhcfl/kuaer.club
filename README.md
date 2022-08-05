@@ -51,6 +51,8 @@
 
 - RLE.wiki\
   <https://rle.wiki>
+- 成为女孩子的声音！\
+  <https://mtf-wiki.github.io/jyosei-guide/>
 - 无性别卫生间分享计划\
   <https://github.com/xfoxfu/KagurazakaToilet>
 
