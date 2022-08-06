@@ -14,6 +14,7 @@
 - [Sex Reassignment Surgery](https://en.wikipedia.org/wiki/Sex_reassignment_surgery_%28male-to-female%29)
 - [Feminizing hormone therapy](https://en.wikipedia.org/wiki/Feminizing_hormone_therapy)
 - [MtF 情報発信サイト](https://joseika.com)（日文）
+- [Suporn Clinic 日本公式サイト](https://supornclinic.jp)（日文）
 
 ## FtM (Female to Male)
 
@@ -63,7 +64,21 @@
 - [庄尼心理咨询中心](http://www.johnnycenter.com)
 - [跨樂園](https://www.transnation.asia)
 - [LGBTQIA in China](https://github.com/LGBT-CN/LGBTQIA-In-China)
-- [微信公众号](media-weixin.md)
+
+## 微信公众号
+
+- 跨儿说 TransTalks，微信号：[TransTalks](https://open.weixin.qq.com/qr/code?username=TransTalks)
+- 跨青年，微信号：[TSECC2017](https://open.weixin.qq.com/qr/code?username=TSECC2017)
+- 跨儿心理，微信号：[kuaerxinli](https://open.weixin.qq.com/qr/code?username=kuaerxinli)
+- 跨性别热线，微信号：[TransHotline](https://open.weixin.qq.com/qr/code?username=TransHotline)
+- 飞天猫兄弟盟，微信号：[gh_bbdc988d3885](https://open.weixin.qq.com/qr/code?username=gh_bbdc988d3885)
+- 女友组 girlfans，微信号：[girlfans2009GZ](https://open.weixin.qq.com/qr/code?username=girlfans2009GZ)
+- 同城青少年资源中心，微信号：[glcac-03](https://open.weixin.qq.com/qr/code?username=glcac-03)
+- 北京同志中心，微信号：[beitong2021](https://open.weixin.qq.com/qr/code?username=beitong2021)
+- lesgo 苏州拉拉公益小组，微信号：[lesgosuzhoulala](https://open.weixin.qq.com/qr/code?username=lesgosuzhoulala)
+- 云南平行健康咨询发展中心，微信号：[ynpx087163379065](https://open.weixin.qq.com/qr/code?username=ynpx087163379065)
+- Queer Squad，微信号：[gh_5d4c0fed0e4c](https://open.weixin.qq.com/qr/code?username=gh_5d4c0fed0e4c)
+- 镇镇的彩虹，微信号：[rainbowzz2016](https://open.weixin.qq.com/qr/code?username=rainbowzz2016)
 
 ## 资料
 
