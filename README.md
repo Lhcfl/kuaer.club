@@ -1,6 +1,8 @@
 # 跨性别导航
 
-## MtF (Male to Female)
+## MtF
+
+> Male to Female
 
 - [MtF.wiki](https://mtf.wiki) ([Twitter](https://twitter.com/MtFwiki))
 - [MtF 指南针](https://mtf.party)
@@ -16,7 +18,9 @@
 - [MtF 情報発信サイト](https://joseika.com)（日文）
 - [Suporn Clinic 日本公式サイト](https://supornclinic.jp)（日文）
 
-## FtM (Female to Male)
+## FtM
+
+> Female to Male
 
 - [FtM.wiki](https://ftm.wiki)（[Twitter](https://twitter.com/FtMwiki)）
 - [Top Surgery Guide](https://www.topsurgery.net)
@@ -26,13 +30,17 @@
 - [Sex Reassignment Surgery](https://en.wikipedia.org/wiki/Sex_reassignment_surgery_%28female-to-male%29)
 - [Masculinizing hormone therapy](https://en.wikipedia.org/wiki/Masculinizing_hormone_therapy)
 
-## RLE (Real life experience)
+## RLE
+
+> Real life experience
 
 - [RLE.wiki](https://rle.wiki)
 - [成为女孩子的声音！](https://mtf-wiki.github.io/jyosei-guide/)（电子书）
 - [无性别卫生间分享计划](https://github.com/xfoxfu/KagurazakaToilet)
 
-## HRT (Hormone replacement therapy)
+## HRT
+
+> Hormone replacement therapy
 
 - [HRT.Cafe](https://hrt.cafe)
 - [DIY HRT](https://diyhrt.wiki)
@@ -53,12 +61,16 @@
 - [limelight.moe](https://limelight.moe)（目前已关闭注册）
 - [不明小站](https://trnt.lgbt)
 
-## 在 Bilibili 开设账号的医生们
+## Bilibili
+
+> 在 Bilibili 开设账号的跨性别友好医生们
 
 - [潘柏林](https://space.bilibili.com/2085711307)
 - [陈臻](https://space.bilibili.com/674195647)
 
-## NGO (Non-governmental organization)
+## NGO
+
+> Non-governmental organization
 
 - [跨儿心理小组](https://kuaerxinli.org)
 - [庄尼心理咨询中心](http://www.johnnycenter.com)
@@ -67,18 +79,30 @@
 
 ## 微信公众号
 
-- 跨儿说 TransTalks，微信号：[TransTalks](https://open.weixin.qq.com/qr/code?username=TransTalks)
-- 跨青年，微信号：[TSECC2017](https://open.weixin.qq.com/qr/code?username=TSECC2017)
-- 跨儿心理，微信号：[kuaerxinli](https://open.weixin.qq.com/qr/code?username=kuaerxinli)
-- 跨性别热线，微信号：[TransHotline](https://open.weixin.qq.com/qr/code?username=TransHotline)
-- 飞天猫兄弟盟，微信号：[gh_bbdc988d3885](https://open.weixin.qq.com/qr/code?username=gh_bbdc988d3885)
-- 女友组 girlfans，微信号：[girlfans2009GZ](https://open.weixin.qq.com/qr/code?username=girlfans2009GZ)
-- 同城青少年资源中心，微信号：[glcac-03](https://open.weixin.qq.com/qr/code?username=glcac-03)
-- 北京同志中心，微信号：[beitong2021](https://open.weixin.qq.com/qr/code?username=beitong2021)
-- lesgo 苏州拉拉公益小组，微信号：[lesgosuzhoulala](https://open.weixin.qq.com/qr/code?username=lesgosuzhoulala)
-- 云南平行健康咨询发展中心，微信号：[ynpx087163379065](https://open.weixin.qq.com/qr/code?username=ynpx087163379065)
-- Queer Squad，微信号：[gh_5d4c0fed0e4c](https://open.weixin.qq.com/qr/code?username=gh_5d4c0fed0e4c)
-- 镇镇的彩虹，微信号：[rainbowzz2016](https://open.weixin.qq.com/qr/code?username=rainbowzz2016)
+- 跨儿说 TransTalks\
+  微信号：[TransTalks](https://open.weixin.qq.com/qr/code?username=TransTalks)
+- 跨青年\
+  微信号：[TSECC2017](https://open.weixin.qq.com/qr/code?username=TSECC2017)
+- 跨儿心理\
+  微信号：[kuaerxinli](https://open.weixin.qq.com/qr/code?username=kuaerxinli)
+- 跨性别热线\
+  微信号：[TransHotline](https://open.weixin.qq.com/qr/code?username=TransHotline)
+- 飞天猫兄弟盟\
+  微信号：[gh_bbdc988d3885](https://open.weixin.qq.com/qr/code?username=gh_bbdc988d3885)
+- 女友组 girlfans\
+  微信号：[girlfans2009GZ](https://open.weixin.qq.com/qr/code?username=girlfans2009GZ)
+- 同城青少年资源中心\
+  微信号：[glcac-03](https://open.weixin.qq.com/qr/code?username=glcac-03)
+- 北京同志中心\
+  微信号：[beitong2021](https://open.weixin.qq.com/qr/code?username=beitong2021)
+- lesgo 苏州拉拉公益小组\
+  微信号：[lesgosuzhoulala](https://open.weixin.qq.com/qr/code?username=lesgosuzhoulala)
+- 云南平行健康咨询发展中心\
+  微信号：[ynpx087163379065](https://open.weixin.qq.com/qr/code?username=ynpx087163379065)
+- Queer Squad\
+  微信号：[gh_5d4c0fed0e4c](https://open.weixin.qq.com/qr/code?username=gh_5d4c0fed0e4c)
+- 镇镇的彩虹\
+  微信号：[rainbowzz2016](https://open.weixin.qq.com/qr/code?username=rainbowzz2016)
 
 ## 资料
 
