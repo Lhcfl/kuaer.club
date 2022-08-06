@@ -17,6 +17,8 @@
 - [Feminizing hormone therapy](https://en.wikipedia.org/wiki/Feminizing_hormone_therapy)
 - [MtF 情報発信サイト](https://joseika.com)（日文）
 - [Suporn Clinic 日本公式サイト](https://supornclinic.jp)（日文）
+- [生如夏花知识库·乳首开发](https://wiki.viva-la-vita.org/nipple)
+- [生如夏花知识库·前列腺开发](https://wiki.viva-la-vita.org/prostate)
 
 ## FtM
 
