@@ -50,6 +50,7 @@
 - [跨岛](https://chat.transland.lgbt)
 - [那些秋叶](https://one-among.us)（拒绝对跨性别的暴力）
 - [limelight.moe](https://limelight.moe)（目前已关闭注册）
+- [不明小站](https://trnt.lgbt)
 
 ## NGO (Non-governmental organization)
 
