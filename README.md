@@ -52,6 +52,11 @@
 - [limelight.moe](https://limelight.moe)（目前已关闭注册）
 - [不明小站](https://trnt.lgbt)
 
+## 在 Bilibili 开设账号的医生们
+
+- [潘柏林](https://space.bilibili.com/2085711307)
+- [陈臻](https://space.bilibili.com/674195647)
+
 ## NGO (Non-governmental organization)
 
 - [跨儿心理小组](https://kuaerxinli.org)
