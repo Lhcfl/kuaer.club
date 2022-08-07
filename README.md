@@ -164,6 +164,8 @@
 - [先輩はおとこのこ](https://ja.wikipedia.org/wiki/先輩はおとこのこ)（一般译作：「前辈是伪娘」）
 - [致性别为“蒙娜丽莎”的你。](https://manga.bilibili.com/detail/mc28295)
 - [当我不再成为我](https://www.manhuagui.com/comic/31859/)
+- [生まれる性別をまちがえた!](https://www.amazon.co.jp/dp/4041052386)（一般译作：「我生错性别了！」）
+- [性転換から知る保健体育 ～元男が男女の違いについて語る件～](https://www.amazon.co.jp/dp/4041068355)
 
 > 游戏
 
