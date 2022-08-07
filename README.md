@@ -153,7 +153,7 @@
 - [Orange is the New Black (2013)](https://en.wikipedia.org/wiki/Orange_Is_the_New_Black)（美国，一般译作「女子监狱」）
 - [Sense8 (2015)](https://en.wikipedia.org/wiki/Sense8)（美国）
 - [Pose (2018)](https://en.wikipedia.org/wiki/Pose_%28TV_series%29)（美国，一般译作「姿态」）
-- [女子的生活 (2018)](https://zh.wikipedia.org/wiki/女子的生活)（日本）
+- [女子的生活 (2018)](https://ja.wikipedia.org/wiki/女子的生活)（日本，一般译作「女子的生活」）
 - [Euphoria (2019)](https://en.wikipedia.org/wiki/Euphoria_%28American_TV_series%29)
 - [Veneno (2020)](https://en.wikipedia.org/wiki/Veneno_%28TV_series%29)
 
