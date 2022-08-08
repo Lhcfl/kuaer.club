@@ -114,11 +114,11 @@
 
 ## 资料
 
-- awesome trans（[Telegram](https://t.me/awesometrans_zh)、[Twitter](https://twitter.com/awesometrans_zh)、[GitHub](https://github.com/awesometrans/awesometrans_zh)）
+- [awesome trans](https://github.com/awesometrans/awesometrans_zh)
 - [Transgender Resources Center](https://tgr.org.hk)
 - [Transgender lost years](https://github.com/KristallWang/Transgender-lost-years)
 - [UCSF Transgender Care](https://transcare.ucsf.edu)
-- [HealthyPlace](https://www.healthyplace.com)
+- [Healthy Place](https://www.healthyplace.com)
 - [跨性别在线·文档库](https://docs.transonline.org.cn)
 - [LGBT 文件资料索引库](https://cnlgbtdata.com)
 
@@ -162,10 +162,9 @@
 - [IS〜男でも女でもない性〜](https://ja.wikipedia.org/wiki/IS〜男でも女でもない性〜)
 - [不可解なぼくのすべてを](https://comic.pixiv.net/works/5315)（一般译作：「不可解的我的一切」）
 - [先輩はおとこのこ](https://ja.wikipedia.org/wiki/先輩はおとこのこ)（一般译作：「前辈是伪娘」）
+- [生まれる性別をまちがえた!](https://www.amazon.co.jp/dp/4041052386)（一般译作：「我生错性别了！」）
 - [致性别为“蒙娜丽莎”的你。](https://manga.bilibili.com/detail/mc28295)
 - [当我不再成为我](https://www.manhuagui.com/comic/31859/)
-- [生まれる性別をまちがえた!](https://www.amazon.co.jp/dp/4041052386)（一般译作：「我生错性别了！」）
-- [性転換から知る保健体育 ～元男が男女の違いについて語る件～](https://www.amazon.co.jp/dp/4041068355)
 
 > 游戏
 
