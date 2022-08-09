@@ -29,7 +29,7 @@
 - [Feminizing hormone therapy](https://en.wikipedia.org/wiki/Feminizing_hormone_therapy)
 - [Transfeminine Science](https://transfemscience.org)（[中文译本](https://github.com/tfsci-sc/articles)）
 
-  > 法语
+> 法语
 
 - [Wiki Trans](https://wikitrans.co)
 
