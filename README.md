@@ -2,36 +2,47 @@
 
 ## MtF
 
-> Male to Female
+> 中文
 
 - [MtF.wiki](https://mtf.wiki) ([Twitter](https://twitter.com/MtFwiki))
 - [MtF 指南针](https://mtf.party)
 - [MtF Hub](https://hub.mtf.party/explore)
 - [MtF 小站](https://mtf.qwq.pink)
-- [Reddit MtF wiki](https://www.reddit.com/r/mtf/wiki)
 - [Reddit MtF 中文社区](https://www.reddit.com/r/mtf_zh)
-- [Transfeminine Science](https://transfemscience.org)（[中文译本](https://github.com/tfsci-sc/articles)）
 - [MtFHRT@groups.io](https://groups.io/g/MTFHRT)
 - [Shizu's HRT Guide](https://docs.hrt.guide)
-- [Sex Reassignment Surgery](https://en.wikipedia.org/wiki/Sex_reassignment_surgery_%28male-to-female%29)
-- [Feminizing hormone therapy](https://en.wikipedia.org/wiki/Feminizing_hormone_therapy)
 - [生如夏花知识库·乳首开发](https://wiki.viva-la-vita.org/nipple)
 - [生如夏花知识库·前列腺开发](https://wiki.viva-la-vita.org/prostate)
 
-> 日本
+> 日语
 
 - [MtF 情報発信サイト](https://joseika.com)
 - [日本性同一性障害・性別違和と共に生きる人々の会](https://gid.jp)
 - [Suporn Clinic 日本公式サイト](https://supornclinic.jp)
 - [女装ブロガー「ことのは」が運営する個人ブログ](https://www.tukinasikotonoha.com)
 
+> 英语
+
+- [Reddit MtF wiki](https://www.reddit.com/r/mtf/wiki)
+- [Gender Analysis](https://genderanalysis.net)
+- [Sex Reassignment Surgery](https://en.wikipedia.org/wiki/Sex_reassignment_surgery_%28male-to-female%29)
+- [Feminizing hormone therapy](https://en.wikipedia.org/wiki/Feminizing_hormone_therapy)
+- [Transfeminine Science](https://transfemscience.org)（[中文译本](https://github.com/tfsci-sc/articles)）
+
+  > 法语
+
+- [Wiki Trans](https://wikitrans.co)
+
 ## FtM
 
-> Female to Male
+> 中文
 
 - [FtM.wiki](https://ftm.wiki)（[Twitter](https://twitter.com/FtMwiki)）
-- [Top Surgery Guide](https://www.topsurgery.net)
+
+> 英语
+
 - [TransGuys](https://transguys.com)
+- [Top Surgery Guide](https://www.topsurgery.net)
 - [Hudson's FtM Resource Guide](http://www.ftmguide.org)
 - [Reddit FtM wiki](https://www.reddit.com/r/ftm/wiki)
 - [Sex Reassignment Surgery](https://en.wikipedia.org/wiki/Sex_reassignment_surgery_%28female-to-male%29)
