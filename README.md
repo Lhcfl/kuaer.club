@@ -66,16 +66,23 @@
 - [跨岛](https://chat.transland.lgbt)
 - [那些秋叶](https://one-among.us)（拒绝对跨性别的暴力）
 - [limelight.moe](https://limelight.moe)（目前已关闭注册）
-- [不明小站](https://trnt.lgbt)
 
 ## NGO
 
-> Non-governmental organization
+> 中国大陆
 
 - [跨儿心理小组](https://kuaerxinli.org)
 - [庄尼心理咨询中心](http://www.johnnycenter.com)
-- [跨樂園](https://www.transnation.asia)
 - [LGBTQIA in China](https://github.com/LGBT-CN/LGBTQIA-In-China)
+
+> 香港
+
+- [跨樂園](https://www.transnation.asia)
+
+> 台湾
+
+- [台灣性別不明關懷協會](https://www.istscare.org)
+- [不明小站](https://trnt.lgbt)
 
 ## Bilibili
 
